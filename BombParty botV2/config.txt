@@ -1,0 +1,4 @@
+nickname:
+dic:
+api_key:
+version:V1
